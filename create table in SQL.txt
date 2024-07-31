@@ -1,0 +1,11 @@
+create table student(
+  student_id int,
+  student_name varchar(100),
+  dept varchar(100),
+  mark int
+  );
+  
+  insert into student values(1,'kaviya','ECE',20);
+  insert into student values(2,'joshiya','ECE',30);
+  insert into student values(3,'jayashri','CSE',25);
+  insert into student values(1,'sowbi','EEE',20);
